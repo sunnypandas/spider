@@ -1,0 +1,14 @@
+Date: Sun, 20 Jan 2019 04:04:14 GMT
+Server: Apache
+P3P: CP="CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Set-Cookie: zol_userid=xxx; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.zol.com.cn
+Set-Cookie: zol_check=xxx; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.zol.com.cn
+Set-Cookie: zol_sid=xxx; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.zol.com.cn
+Set-Cookie: zol_cipher=xxx; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.zol.com.cn
+Set-Cookie: photourl=xxx; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.zol.com.cn
+Cache-Control: max-age=0
+Expires: Sun, 20 Jan 2019 04:04:14 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Nncoection: close
+Content-Type: text/html;charset=gbk
