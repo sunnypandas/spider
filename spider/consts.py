@@ -8,6 +8,11 @@ DB2_ITEM_PIPELINES = {
     'spider.pipelines.DB2Pipeline': 100,
 }
 
+MONGODB_ITEM_PIPELINES = {
+    'scrapy.pipelines.images.ImagesPipeline': 1,
+    'spider.pipelines.MongoDBPipeline': 100,
+}
+
 DOWNLOADER_MIDDLEWARES_HTTP_PROXY_ON = {
     #'spider.middlewares.DownloaderMiddleware': 543,
     #to support random ua
